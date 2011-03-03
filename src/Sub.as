@@ -2,9 +2,13 @@ package
 {
 	/**
 	 * @author:		Merrycat
-	 * @version:	2011-3-3	обнГ04:52:12
+	 * @version:	2011-3-3	О©╫О©╫О©╫О©╫04:52:12
 	 */
 	public class Sub
 	{
+		public function Sub()
+		{
+		}
+
 	}
 }
